@@ -1,20 +1,20 @@
 # Estructura del Portafolio
 
 
-
-portfolio/
-│
-├── 📄 index.html
-├── 📄 README.md
-├── 📁 projects/
-│ ├── project1-medical-ml/
-│ ├── project2-ecommerce-ml/
-│ └── project3-timeseries-ml/
-├── 📁 assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-└── 📁 docs/
+ ├── 📄 index.html
+    ├── 📄 README.md
+    ├── 📁 projects/
+    │   ├── 📁 medical-image-classification/
+    │   │   └── 📄 README.md
+    │   ├── 📁 ecommerce-recommendation/
+    │   │   └── 📄 README.md
+    │   └── 📁 time-series-forecasting/
+    │       └── 📄 README.md
+    ├── 📁 assets/
+    │   ├── 📁 css/
+    │   ├── 📁 js/
+    │   └── 📁 images/
+    └── 📁 docs/
 
 
 Esta estructura organiza los proyectos de machine learning...
