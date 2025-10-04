@@ -14,3 +14,8 @@ Sistema de deep learning para detección temprana de neumonía en rayos X.
 - Flask
 
 ## Estructura del Proyecto
+medical-image-classification/
+├── model-training/
+├── data-preprocessing/
+├── api/
+└── documentation/
