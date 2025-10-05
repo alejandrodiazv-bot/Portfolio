@@ -20,7 +20,7 @@ medical-image-classification/
 └── documentation/
 
 
-# 🏥 Precio de casas en California
+# 📊 Precio de casas en California
 
 ## Descripción
  Analisis de precio de casas segun ubicación al mar 
