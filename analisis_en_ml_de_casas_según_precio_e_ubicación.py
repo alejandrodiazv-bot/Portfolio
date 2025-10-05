@@ -11,7 +11,7 @@ import numpy as np
 
 def cargar_datos(ruta_archivo):
     """Carga y muestra información básica del dataset"""
-    datos = pd.read_csv(ruta_archivo)
+    datos = pd.read_csv(ruta_archivo)               #'housing.csv'
     print("=== INFORMACIÓN DEL DATASET ===")
     print(f"Dimensiones: {datos.shape}")
     print(f"Columnas: {datos.columns.tolist()}")
